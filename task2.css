@@ -1,0 +1,24 @@
+#intro{
+    color: #e1b3bb;
+    border: 7px solid rgb(101 152 217);
+   text-align: center;
+}
+body{
+    background-color: #7a8581;
+}
+img {
+    margin-left: 8px;
+    border-color: #e1b3bb;
+    height: 13%;
+    width: 20%;
+}
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    margin-left: 10px;
+    color: #ffffff;
+}
+h3{
+    color : #202f6b;
+    margin: 10px;
+}
